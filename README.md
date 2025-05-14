@@ -43,3 +43,5 @@ The core of the implementation is in `stakcs.c`.  Here's a breakdown:
     ```bash
     ./stakcs
     ```
+## What will show up in the terminal:
+![Image](https://github.com/user-attachments/assets/101ce90d-f5ba-49a9-8f1e-7e64952b0bc1)
